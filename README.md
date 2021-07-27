@@ -14,10 +14,11 @@
 
 
 ## 2.Rclone Authenticate MEGA in your pc (NOT In colab)
+https://rclone.org/mega/  
 
 ![Screenshot 2021-07-27 193219](https://user-images.githubusercontent.com/67457538/127168563-727f4e9b-b3ef-4137-a3bf-c63fe551f384.png)
 
-https://rclone.org/mega/  
+
 
 ## 3.GO to rclone.config in your pc
 
