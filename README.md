@@ -1,6 +1,6 @@
 # New MEGA transfer after colab update!
 
-## New notebook [![Open In Colab](https://colab.research.google.com/github/jakiyaa/MEga-to-gdrive-transfer/blob/main/New_MEGA_%3C%3E_GDRIVE_.ipynb)
+## New notebook [![Open In Colab](https://colab.research.google.com/github/jakiyaa/MEga-to-gdrive-transfer/blob/main/New_MEGA_%3C%3E_GDRIVE_.ipynb )
 
 
 
@@ -40,5 +40,7 @@ https://rclone.org/mega/
 ![Screenshot 2021-07-27 193325](https://user-images.githubusercontent.com/67457538/127169714-aa14b177-595b-4b6e-92db-7012e4467d38.png)
 
 ## 6.NOw you can Mount MEGA
+
+## 7.MEGA Mounted sucessfully
 
 ![Screenshot 2021-07-27 193458](https://user-images.githubusercontent.com/67457538/127169882-e4f074a7-2fa5-4278-a85d-b9d99a570dbf.png)
