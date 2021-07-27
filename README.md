@@ -3,6 +3,8 @@
 ## New notebook  [![Open In Colab](https://colab.research.google.com/github/jakiyaa/MEga-to-gdrive-transfer/blob/main/New_MEGA_%3C%3E_GDRIVE_.ipynb)
 
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakiya99/colab-rdp/blob/main/guicolab.ipynb)
+
 
 ## 1.Download rclone to your local pc
 
