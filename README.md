@@ -1,4 +1,4 @@
-# New MEGA transfer after colab update!
+# New MEGA.nz transfer after colab update!
 
 ## New notebook  
 
