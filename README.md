@@ -1,17 +1,19 @@
 # New MEGA transfer after colab update!
 
-## New notebook=
+## New notebook [![Open In Colab](https://colab.research.google.com/github/jakiyaa/MEga-to-gdrive-transfer/blob/main/New_MEGA_%3C%3E_GDRIVE_.ipynb)
+
+
 
 ## 1.Download rclone to your local pc
 
-``` https://rclone.org/downloads/ ```
+ https://rclone.org/downloads/ 
 
 
 ## 2.Rclone Authenticate MEGA in your pc (NOT In colab)
 
 ![Screenshot 2021-07-27 193219](https://user-images.githubusercontent.com/67457538/127168563-727f4e9b-b3ef-4137-a3bf-c63fe551f384.png)
 
-``` https://rclone.org/mega/  ```
+https://rclone.org/mega/  
 
 ## 3.GO to rclone.config in your pc
 
